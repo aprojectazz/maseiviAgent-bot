@@ -3,7 +3,8 @@ from telebot import types
 from flask import Flask, request
 
 # التوكن الخاص بك بناءً على الصورة
-TOKEN = "8754037232:AAFMg0bDN6_9P_VMx0xhjV09TSSQzzhjPGs"
+TOKEN = "8704677505:AAG42msKUP_yiiHe_8kdZcSd
+vL6A7Ko9ShY"
 bot = telebot.TeleBot(TOKEN)
 app = Flask(_name_)
 
